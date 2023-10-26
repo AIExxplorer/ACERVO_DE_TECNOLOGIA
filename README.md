@@ -389,3 +389,12 @@ Este projeto é possível graças a todos os contribuidores. [Contribua](https:/
       </sub>
     </a>
 </td> -->
+
+
+## Licença || Atribuição
+
+Este Código de Conduta é adaptado do Contributor Covenant, versão 2.0, disponível em [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+
+As Diretrizes de Impacto na Comunidade foram inspiradas na escala de execução de código de conduta da [Mozilla](https://github.com/mozilla/diversity).
+
+Para respostas a perguntas comuns sobre este código de conduta, consulte as perguntas frequentes em [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Traduções estão disponíveis em [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
