@@ -20,6 +20,11 @@ Se este repositório foi útil para você, considere dar uma ⭐️. Isso ajuda 
 
 Agradeço seu apoio!
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1166984935656149092/Deixe_seu_apoio.gif?ex=654c7a6a&is=653a056a&hm=8bdc614ae224d093fc7c749cf36791d8c53cbefd0db28f78523d775a15ee3961" alt="Apoie este projeto" />
+</p>
+
+
 ## Explore o acervo de livros e mergulhe no conhecimento tecnológico.
 
 ```markdown
