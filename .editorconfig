@@ -1,0 +1,19 @@
+# top-most EditorConfig file
+root = true
+
+# Definindo o estilo para todos os arquivos
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Definindo o estilo para arquivos de código Python
+[*.py]
+indent_style = space
+indent_size = 4
+
+# Definindo o estilo para arquivos JavaScript
+[*.js]
+indent_style = space
+indent_size = 2

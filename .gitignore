@@ -1,0 +1,11 @@
+# Arquivos de configuração
+config.ini
+.env
+
+# Arquivos compilados
+*.class
+*.o
+
+# Diretórios
+/build/
+/node_modules/
