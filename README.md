@@ -9,6 +9,12 @@ Consulte o arquivo [CONTRIBUINDO](https://github.com/AIExxplorer/ACERVO_DE_TECNO
 ## Consciência Social
 Se puder, adquira os livros para apoiar os autores e promover a produção de mais conteúdo de qualidade.
 
+## Gostou deste repositório?
+
+Se este repositório foi útil para você, considere dar uma ⭐️. Isso ajuda a motivar e apoiar o trabalho contínuo.
+
+Agradeço seu apoio!
+
 ## Explore o acervo de livros e mergulhe no conhecimento tecnológico.
 
 ```markdown
