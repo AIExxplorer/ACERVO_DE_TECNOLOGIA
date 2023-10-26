@@ -13,5 +13,3 @@ Explore nosso acervo de livros e mergulhe no conhecimento tecnológico.
 
 Contribuidores
 Este projeto é possível graças a todos os contribuidores. [Contribua].
-# ACERVO_DE_TECNOLOGIA
-# ACERVO_DE_TECNOLOGIA
