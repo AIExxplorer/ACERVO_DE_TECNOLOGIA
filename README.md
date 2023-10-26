@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1166982088805863424/Banner_do_YouTube_Tecnologia_Digital_Glitch_Preto_Roxo.gif?ex=654c77c3&is=653a02c3&hm=6d27df750cff0bcd5eb6cee52f96ea07df156a4c8edead180264b504f0826fdf" alt="Banner Tecnologia Digital" />
+</p>
+
+
 # Acervo Tecnológico
 Aprenda e cresça no mundo da tecnologia. O conhecimento está ao alcance de todos.
 
