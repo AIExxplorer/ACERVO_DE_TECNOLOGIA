@@ -15,7 +15,7 @@ Para garantir um processo de contribuição suave e eficiente, siga estas diretr
 ## Como Adicionar um Novo Livro
 
 1. Edite o arquivo README.md.
-2. Adicione "- [nome do livro](link para acessar)" na seção de livros.
+2. Adicione "- [tema do livro](link para acessar)" na seção de livros.
 3. Se você possui o arquivo do livro, mas não tem o link, faça o upload do arquivo primeiro no acervo de livros.
 
 ## Como Adicionar Meu Perfil como Contribuidor
