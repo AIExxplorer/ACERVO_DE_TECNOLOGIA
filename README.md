@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1166982088805863424/Banner_do_YouTube_Tecnologia_Digital_Glitch_Preto_Roxo.gif?ex=654c77c3&is=653a02c3&hm=6d27df750cff0bcd5eb6cee52f96ea07df156a4c8edead180264b504f0826fdf" alt="Banner Tecnologia Digital" />
+  <img src="https://utfs.io/f/021e1e1f-be6a-410c-8445-88b27bce8964-7kj6bl.gif" alt="Banner Tecnologia Digital" />
 </p>
 
 
@@ -21,7 +21,7 @@ Se este repositório foi útil para você, considere dar uma ⭐️. Isso ajuda 
 Agradeço seu apoio!
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1166984935656149092/Deixe_seu_apoio.gif?ex=654c7a6a&is=653a056a&hm=8bdc614ae224d093fc7c749cf36791d8c53cbefd0db28f78523d775a15ee3961" alt="Apoie este projeto" />
+  <img src="https://utfs.io/f/83997afe-4b9a-44f6-82d1-53bf97c0a646-gapx1c.gif" alt="Apoie este projeto" />
 </p>
 
 
