@@ -1,36 +1,15 @@
 # These are supported funding model platforms
-
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: # Replace with a single Polar username
-buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-thanks_dev: # Replace with a single thanks.dev username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-
-
-\\
-
-
-# Estas são plataformas de modelo de financiamento suportadas
-
-github: # Substitua por até 4 nomes de usuário habilitados para GitHub Sponsors, por exemplo, [user1, user2]
-patreon: # Substitua por um único nome de usuário do Patreon
-open_collective: # Substitua por um único nome de usuário do Open Collective
-ko_fi: # Substitua por um único nome de usuário Ko-fi
-Tidelift: # Substitua por uma única plataforma Tidelift-
-nome/nome do pacote, por exemplo, npm/babel
-community_bridge: # Substitua por um único nome de projeto Community Bridge, por exemplo, cloud-foundry
-liberapay: # Substitua por um único nome de usuário Liberapay
-issuehunt: # Substitua por um único nome de usuário do IssueHunt
-lfx_crowdfunding: # Substitua por um único nome de projeto LFX Crowdfunding, por exemplo, cloud-foundry
-polar: # Substitua por um único nome de usuário Polar
-buy_me_a_coffee: # Substitua por um único nome de usuário do Buy Me a Coffee
-agradecimentos_dev: # Substitua por um único nome de usuário agradecimentos.dev
-custom: # Substitua por até 4 URLs de patrocínio personalizados, por exemplo, ['link1', 'link2']
+ 
+github: ['AIExxplorer'] # Substitua pelo seu nome de usuário do GitHub Sponsors
+patreon: '' # Substitua pelo seu nome de usuário no Patreon (se aplicável)
+open_collective: '' # Substitua pelo seu nome de usuário no Open Collective (se aplicável)
+ko_fi: '' # Substitua pelo seu nome de usuário no Ko-fi (se aplicável)
+tidelift: '' # Substitua pela URL do pacote na Tidelift (se aplicável)
+community_bridge: '' # Substitua pelo nome do projeto no Community Bridge (se aplicável)
+liberapay: '' # Substitua pelo seu nome de usuário no Liberapay (se aplicável)
+issuehunt: '' # Substitua pelo seu nome de usuário no IssueHunt (se aplicável)
+lfx_crowdfunding: '' # Substitua pelo nome do projeto no LFX Crowdfunding (se aplicável)
+polar: '' # Substitua pelo seu nome de usuário no Polar (se aplicável)
+buy_me_a_coffee: '' # Substitua pelo seu nome de usuário no Buy Me a Coffee (se aplicável)
+thanks_dev: '' # Substitua pelo seu nome de usuário no thanks.dev (se aplicável)
+custom: ['https://github.com/sponsors/AIExxplorer'] # Substitua por até 4 URLs de patrocínio personalizado
