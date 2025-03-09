@@ -1,3 +1,6 @@
+[![Status do Projeto](https://img.shields.io/badge/Status-Constantemente%20Atualizado-purple.svg)](#)
+
+
 <p align="center">
   <img src="https://utfs.io/f/021e1e1f-be6a-410c-8445-88b27bce8964-7kj6bl.gif" alt="Banner Tecnologia Digital" />
 </p>
